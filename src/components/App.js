@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { v4 } from 'uuid';
 import './App.css';
 import Header from './Header'
